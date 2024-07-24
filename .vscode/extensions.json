@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "Gruntfuggly.todo-tree",
+    "bradlc.vscode-tailwindcss",
+    "naumovs.color-highlight",
+    "Prisma.prisma",
+    "ms-azuretools.vscode-docker",
+    "hediet.vscode-drawio"
+  ]
+}
